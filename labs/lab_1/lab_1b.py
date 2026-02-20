@@ -58,7 +58,7 @@ def main():
 
     operation = input("Enter the operation (add, subtract, multiply, divide): ").strip().lower()
 
-    # Perform the calculation and display the result
+    # Perform the calculation and display the resultaddwaw
     while (True):
         try:
             result = simple_calculator(operation, num1, num2)
